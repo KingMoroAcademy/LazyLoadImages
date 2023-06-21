@@ -34,3 +34,6 @@ Now we have the div that has a background placeholder images which is very small
 So, I've added some js and stle codes to do the job.
 
 Also I've added a cool pulsing effect to the images that's not fully loaded yet using ::before and animation with keyframes to make it pulsing and made it removed with before: none when the image is fully loaded (Which mean when the element is got the .loaded style). 
+
+## Sources and References
+The used images source is pexels.com which allow users to use it's images for free. the idea is from the youtube channel web dev simplified.
