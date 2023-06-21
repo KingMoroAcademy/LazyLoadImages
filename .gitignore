@@ -1,0 +1,6 @@
+# Ignore map files
+*.map
+
+# ignore SCSS Files
+*.scss
+
