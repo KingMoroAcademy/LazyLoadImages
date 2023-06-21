@@ -37,3 +37,8 @@ Also I've added a cool pulsing effect to the images that's not fully loaded yet 
 
 ## Sources and References
 The used images source is pexels.com which allow users to use it's images for free. the idea is from the youtube channel web dev simplified.
+
+# live demo
+To see a live demo please visit: https://kingmoroacademy.github.io/LazyLoadImages/
+
+Have a good day
